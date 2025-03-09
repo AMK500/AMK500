@@ -1,13 +1,9 @@
+<p  align="center">
+<img style="margin: auto;" src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif" alt="" />      
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
-
-<img
-      src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif"
-      alt=""
-    />
-
-    
 
 
 - 🌱 I’m currently learning **JavaScript**
