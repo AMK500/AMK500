@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&psig=AOvVaw3G_U3000u8ndNUWfuc2h2a&ust=1741642139653000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLin6dv4_YsDFQAAAAAdAAAAABAK"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&psig=AOvVaw3G_U3000u8ndNUWfuc2h2a&ust=1741642139653000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLin6dv4_YsDFQAAAAAdAAAAABAK"/>
 
 - 🌱 I’m currently learning **JavaScript**
 
