@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 
-![image](https://github.com/user-attachments/assets/99212855-5e9d-4bdd-9917-f331669e7234)
+<img src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif"/>
 
 
 - 🌱 I’m currently learning **JavaScript**
