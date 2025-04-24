@@ -55,7 +55,7 @@
 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://swiperjs.com/images/shared/swiper-logo.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
 </p>
