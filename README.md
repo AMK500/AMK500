@@ -18,8 +18,6 @@
 <a href="https://instagram.com/https://www.instagram.com/abdo.mk555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdo.mk555/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/http://youtube.com/@abdulrahman_mahmoud.886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://youtube.com/@abdulrahman_mahmoud.886" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -27,56 +25,38 @@
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <strong>HTML</strong>
   </a>
-
-  &nbsp;&nbsp;
-
+  
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <strong>CSS</strong>
   </a>
-
-  &nbsp;&nbsp;
 
   <!-- Sass -->
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-    <strong>SASS</strong>
   </a>
-
-  &nbsp;&nbsp;
 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    <strong>Bootstrap</strong>
   </a>
-
-  &nbsp;&nbsp;
 
   <!-- SwiperJS -->
   <a href="https://swiperjs.com/" target="_blank">
     <img src="https://swiperjs.com/images/shared/swiper-logo.svg" alt="SwiperJS" width="40" height="40"/>
-    <strong>SwiperJS</strong>
   </a>
-
-  &nbsp;&nbsp;
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <strong>Git</strong>
   </a>
-
-  &nbsp;&nbsp;
 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <strong>GitHub</strong>
   </a>
 
 </p>
+
 
