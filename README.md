@@ -45,7 +45,7 @@
 
   <!-- SwiperJS (معدل) -->
   <a href="https://swiperjs.com/" target="_blank">
-    <img src="https://swiperjs.com/images/shared/swiper-logo.svg" alt="SwiperJS" width="40" height="40"/>
+    <img src="https://swiperjs.com/images/swiper-logo.svg" alt="SwiperJS" width="40" height="40"/>
   </a>
 
   <!-- Git -->
