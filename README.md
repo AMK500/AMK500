@@ -5,19 +5,24 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+## 👋 Hi, I'm Abdelrahman Mahmoud
 
+I'm a passionate Front-End Developer who loves turning designs into interactive, responsive websites.  
+I have experience working with:
 
-- 🌱 I’m currently learning **JavaScript**
+- HTML & CSS  
+- SASS & Bootstrap  
+- SwiperJS for sliders  
+- Git & GitHub for version control
 
-- 👨‍💻 All of my projects are available at [https://github.com/AMK500](https://github.com/AMK500)
+I'm always learning and improving my skills, and I enjoy creating beautiful, user-friendly web interfaces.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdalrhman-mahmoud-2a9b452b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdalrhman-mahmoud-2a9b452b5/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61551418656610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61551418656610" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abdo.mk555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdo.mk555/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://youtube.com/@abdulrahman_mahmoud.886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://youtube.com/@abdulrahman_mahmoud.886" height="30" width="40" /></a>
-</p>
+🚀 My goal is to become a full-stack web developer and build real-world web apps that make an impact.
+
+📫 You can find me here:
+- GitHub: [https://github.com/AMK500](https://github.com/AMK500)
+
+---
 
 ## 🛠️ Languages and Tools
 
