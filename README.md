@@ -18,6 +18,7 @@
 <a href="https://instagram.com/https://www.instagram.com/abdo.mk555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdo.mk555/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/http://youtube.com/@abdulrahman_mahmoud.886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://youtube.com/@abdulrahman_mahmoud.886" height="30" width="40" /></a>
 </p>
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -42,7 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 
-  <!-- SwiperJS -->
+  <!-- SwiperJS (معدل) -->
   <a href="https://swiperjs.com/" target="_blank">
     <img src="https://swiperjs.com/images/shared/swiper-logo.svg" alt="SwiperJS" width="40" height="40"/>
   </a>
@@ -58,5 +59,6 @@
   </a>
 
 </p>
+
 
 
