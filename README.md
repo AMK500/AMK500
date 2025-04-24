@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdelrahman Mahmoud</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
 
-I'm a passionate Front-End Developer who loves turning designs into interactive, responsive websites.  
+I'm a front-end developer from Egypt 🇪🇬 and I love turning designs into interactive and responsive websites. 
 I have experience working with:
 
 - HTML & CSS  
