@@ -1,11 +1,11 @@
 <p  align="center">
-<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif" alt="" /> -->
-<!--   <img style="margin: auto;" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="" /> -->
-<!--   <img style="margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN6cmY0OTRuMzVlbnp4NWdpcjk0MzZsa3FpdGhydGNqeHZ4N2JtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="" /> -->
-<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="" /> -->
-<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/da/5a/7a/da5a7aa851c4cd669f997b159bf34dd9.gif" alt="" /> -->
-<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/bd/9f/b2/bd9fb20b070b32c73386b390e2acc408.gif" alt="" /> -->
-  <img style="margin: auto;" src="https://i.pinimg.com/originals/87/db/56/87db56afe6c88675b2b9d5780b76af8e.gif" alt="" />
+<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif" alt="" width="100%" /> -->
+<!--   <img style="margin: auto;" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="" width="100%" /> -->
+<!--   <img style="margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN6cmY0OTRuMzVlbnp4NWdpcjk0MzZsa3FpdGhydGNqeHZ4N2JtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="" width="100%" /> -->
+<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="" width="100%" /> -->
+<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/da/5a/7a/da5a7aa851c4cd669f997b159bf34dd9.gif" alt="" width="100%" /> -->
+<!--   <img style="margin: auto;" src="https://i.pinimg.com/originals/bd/9f/b2/bd9fb20b070b32c73386b390e2acc408.gif" alt="" width="100%" /> -->
+  <img style="margin: auto;" src="https://i.pinimg.com/originals/87/db/56/87db56afe6c88675b2b9d5780b76af8e.gif" alt="" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdelrahman Mahmoud</h1>
