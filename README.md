@@ -3,9 +3,8 @@
   <img style="margin: auto;" src="" alt="" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
+<h1 align="center">👋 Hi, I'm Abdelrahman Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-## 👋 Hi, I'm Abdelrahman Mahmoud
 
 I'm a passionate Front-End Developer who loves turning designs into interactive, responsive websites.  
 I have experience working with:
