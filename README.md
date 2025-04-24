@@ -7,7 +7,7 @@
 <!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
 
 
-I'm a front-end developer from 🇪🇬 **Egypt**  
+I'm a front-end developer from **Egypt**  
 and I love turning designs into interactive and responsive websites.  
 I have experience working with:
 
@@ -21,7 +21,8 @@ I'm always learning and improving my skills, and I enjoy creating beautiful, use
 
 🚀 My goal is to become a full-stack web developer and build real-world web apps that make an impact.
 
-📫 You can find me here:
+📢 You can find me here:
+- Githup: [https://github.com/AMK500](https://github.com/AMK500)
 - Whatsapp: [whatsapp.01027144388](https://wa.me/2001027144388?text=مرحبا.)
 
 ---
