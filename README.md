@@ -22,7 +22,7 @@ I'm always learning and improving my skills, and I enjoy creating beautiful, use
 🚀 My goal is to become a full-stack web developer and build real-world web apps that make an impact.
 
 📫 You can find me here:
-- GitHub: [https://github.com/AMK500](https://github.com/AMK500)
+- GitHub: [https://github.com/AMK500](https://wa.me/2001027144388?text=مرحبا.)
 
 ---
 
