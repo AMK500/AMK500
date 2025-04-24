@@ -9,7 +9,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdelrahman Mahmoud</h1>
-<!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
 
 
 I'm a front-end developer from **Egypt**  
